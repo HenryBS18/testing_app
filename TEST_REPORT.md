@@ -20,23 +20,23 @@ flutter drive \
 
 # Summary of test coverage and results
 ## Unit Tests
-File: test/models/favorites_test.dart
-Task: Adding and removing items in the Favorites model.
+File: test/models/favorites_test.dart \
+Task: Adding and removing items in the Favorites model. \
 Result: All assertions pass.
 
 ## Widget Tests
-File: test/home_test.dart
-Task: Listview shows up, scrolling, tap icon buttons.
+File: test/home_test.dart \
+Task: Listview shows up, scrolling, tap icon buttons. \
 Result: All assertions pass.
 
 ## Integration Tests
-File: integration_test/app_test.dart
-Task: adds three items to favorites, Navigates to the favorites screen and Removes items.
+File: integration_test/app_test.dart \
+Task: adds three items to favorites, Navigates to the favorites screen and Removes items. \
 Result: All assertions pass.
 
 
-File: integration_test/perf_test.dart
-Task: Measures performance.
+File: integration_test/perf_test.dart \
+Task: Measures performance. \
 Result: Performance metrics collected.
 
 # Challenges you faced and how you overcame them
